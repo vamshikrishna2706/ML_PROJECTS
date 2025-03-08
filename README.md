@@ -37,7 +37,7 @@ Here are some key visualizations from the project:
 - **Cluster Visualization**  
 ![Cluster Plot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kmeans-pca.png/640px-Kmeans-pca.png)  
 
-## 🛠 How to Run  
+##  How to Run  
 1. Clone this repository:  
    ```bash
    git clone https://github.com/vamshikrishna2706/ML_PROJECTS.git
